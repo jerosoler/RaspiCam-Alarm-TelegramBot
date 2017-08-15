@@ -1,0 +1,16 @@
+{
+  "name": "alarma",
+  "version": "1.0.0",
+  "description": "Alrama con Raspberry  + Raspicam + Telegram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jero Soler",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.11.3",
+    "node-telegram-bot-api": "^0.28.0",
+    "raspi-io": "^8.0.1"
+  }
+}
