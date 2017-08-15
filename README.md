@@ -40,7 +40,7 @@ var usuarios = [USER_NUMBER_ONE,USER_NUMBER_TWO];
 
 Y poner el token:
 ```javascript
-const TelegramBot = require('node-telegram-bot-api');
+const token = 'YOUR TELEGRAM TOKEN';
 ```
 
 ## Ejecutar: 
