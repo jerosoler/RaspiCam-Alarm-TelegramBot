@@ -1,5 +1,5 @@
 # RaspiCam-Alarm-TelegramBot
-Alarma con Raspberry + RaspiCam + Telegram Bot
+Alarma con Raspberry + RaspiCam + Telegram Bot + Sensor PIR
 
 Alarma multiusuario para bot de telegram. 
 
@@ -30,6 +30,11 @@ Install MP4Box para convertir el video y enviarlo por telegram.
 ```bash
 sudo apt-get install -y gpac
 ```
+
+Conectar Sensor PIR en el PIN 11 (GPIO_GEN0)  (Aplicado en Rasbperry PI 2 model B)
+[![](http://www.raspberry-pi-geek.com/var/rpi/storage/images/media/images/raspib-gpio/12356-1-eng-US/RasPiB-GPIO_reference.png)]
+
+
 
 ### Aplicación:
 
